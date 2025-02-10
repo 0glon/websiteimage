@@ -1,4 +1,0 @@
-FastApi
-uvicorn
-SQLAlchemy
-AIosqlite
